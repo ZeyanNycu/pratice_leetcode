@@ -1,1 +1,2 @@
-ready to solve
+用bfs去把每個點都走遍，在走的時候要用queue、map記住被新增過的Node。
+我的code應該可以把v改成insert，或開個陣列這樣空間跟時間應該可以壓一點。
