@@ -1,0 +1,3 @@
+經典的bellman問題，只是要利用dyanmic programming的方式去壓縮時間
+
+從限制step來看bellman會是個選擇。
