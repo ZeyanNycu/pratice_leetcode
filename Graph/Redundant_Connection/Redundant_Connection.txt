@@ -1,0 +1,3 @@
+這題的想法就是去根據input，一個一個去判斷兩個node是不是在同一set，如果是就push進去ans
+
+可以利用arrary，而不是vector來加速
