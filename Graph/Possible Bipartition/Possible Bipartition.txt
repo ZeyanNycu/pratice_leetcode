@@ -1,0 +1,1 @@
+這題是bfs的變形，首先紀錄的東西變成兩個set(當然也可以用bool代表true、false)，然後bfs的queue要存當前的狀態
