@@ -1,0 +1,1 @@
+先用bfs把最短路徑算出來，之後再用dfs找路徑，以及結合dp來壓縮時間(用dp要注意visited的時間要設成不是最短就不能visited)，測資中的數字很大要用longlong
