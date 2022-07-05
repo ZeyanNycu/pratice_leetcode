@@ -1,0 +1,1 @@
+用bfs去算一個set有幾個node，然後算ans的方式是目前total*cnt+累積的，之後要記得更新total
