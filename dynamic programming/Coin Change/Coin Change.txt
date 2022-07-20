@@ -1,0 +1,1 @@
+bfs的方式去算最近的step，然後如果到目的地就return step
