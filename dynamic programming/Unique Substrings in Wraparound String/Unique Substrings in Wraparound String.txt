@@ -1,0 +1,1 @@
+用ans去記錄某個位置上最大的substr(因為要unique)，用temp去紀錄該index的最大的substr，因為如果有連續下一個就有上一個加一個
