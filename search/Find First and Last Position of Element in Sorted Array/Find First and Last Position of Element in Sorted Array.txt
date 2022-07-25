@@ -1,0 +1,1 @@
+這題基本上就是考binary search，只是考的是一個是search出最遠跟search出最近的，兩者的binary tree有些微的不同
