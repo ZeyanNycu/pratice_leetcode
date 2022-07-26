@@ -1,0 +1,1 @@
+這題基本上就是把tree travel一遍，用post travesal然後用ans、sign_p、sign_q去紀錄有沒有找到。
