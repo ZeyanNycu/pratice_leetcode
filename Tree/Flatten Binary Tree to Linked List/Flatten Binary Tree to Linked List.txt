@@ -1,0 +1,1 @@
+這題就是先複製一個tree，然後用全域座標去指向root的node，然後隨者某個travesal給值
